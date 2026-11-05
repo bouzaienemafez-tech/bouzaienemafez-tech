@@ -1,20 +1,29 @@
 # Hi, I'm Mafez Bouzaiene 👋
 
-I build practical data products that turn raw data into useful decisions — from ETL pipelines and SQL analytics to machine-learning APIs and Power BI dashboards.
+I'm seeking a **PFE (end-of-studies internship) starting February 2027** in **Data Analytics, Business Intelligence or Machine Learning**.
 
-## Featured work
+My portfolio explores how Python and SQL workflows can turn data into analysis and prediction APIs. The two projects below are runnable synthetic-data demos, with their evaluation methods and remaining work documented.
 
-| Project | What it demonstrates |
-| --- | --- |
-| [Retail Demand Forecasting Platform](https://github.com/bouzaienemafez-tech/retail-demand-forecasting-platform) | End-to-end ETL, SQL warehouse, demand forecasting, FastAPI and Power BI |
-| [Churn Intelligence](https://github.com/bouzaienemafez-tech/churn-intelligence-mlops) | Explainable churn prediction, model evaluation and a production-style API |
-| [Retail Lakehouse ETL](https://github.com/bouzaienemafez-tech/retail-lakehouse-etl) | Bronze–Silver–Gold architecture, data quality and analytics metrics |
-| [Sales Analytics](https://github.com/bouzaienemafez-tech/data-analytics-etl-powerbi-portfolio) | SQL analysis, ETL workflow and Power BI dashboard design |
+## Featured projects
+
+| Project | Implemented work | Current scope |
+| --- | --- | --- |
+| [Retail Demand Forecasting Platform](https://github.com/bouzaienemafez-tech/retail-demand-forecasting-platform) | SQLite fact/dimension model, SQL analytics, Ridge regression and FastAPI inventory interface | 72 synthetic product-month rows; Power BI report is a blueprint |
+| [Churn Intelligence](https://github.com/bouzaienemafez-tech/churn-intelligence-mlops) | Preprocessing pipeline, logistic regression, holdout evaluation and FastAPI risk scoring | Synthetic telecom-style data; MLOps tooling and explanation output remain planned |
+
+Each featured repository documents setup, example requests, measured demo results and limitations. These projects demonstrate technical workflows; they do not establish real-world business impact.
 
 ## Technical focus
 
-`Python` · `SQL` · `ETL` · `Data Quality` · `Power BI` · `Pandas` · `scikit-learn` · `FastAPI` · `Docker`
+**Demonstrated in the featured code:** Python, SQL/SQLite, Pandas, scikit-learn, data loading, dimensional modeling and FastAPI.
 
-## Currently building
+**Developing further:** Power BI reporting, data-quality validation, stronger model evaluation and MLOps practices. Dockerfiles are included; container deployment still needs validation.
 
-Portfolio projects at the intersection of data engineering, analytics, and machine learning.
+## More portfolio repositories
+
+- [Retail Lakehouse ETL](https://github.com/bouzaienemafez-tech/retail-lakehouse-etl)
+- [Sales Analytics](https://github.com/bouzaienemafez-tech/data-analytics-etl-powerbi-portfolio)
+
+## PFE interests
+
+Data preparation and analysis, decision-support reporting, and applied machine learning with reproducible evaluation.
