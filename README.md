@@ -1,20 +1,19 @@
-# Hi, I'm Mafez Bouzaiene 👋
+# I'm Mafez Bouzaiene
 
-I build practical data products that turn raw data into useful decisions — from ETL pipelines and SQL analytics to machine-learning APIs and Power BI dashboards.
+I work with Python and SQL to clean data, build pipelines, and answer questions about sales and customers. I also train machine learning models and build APIs for predictions.
 
-## Featured work
+## My projects
 
-| Project | What it demonstrates |
-| --- | --- |
-| [Retail Demand Forecasting Platform](https://github.com/bouzaienemafez-tech/retail-demand-forecasting-platform) | End-to-end ETL, SQL warehouse, demand forecasting, FastAPI and Power BI |
-| [Churn Intelligence](https://github.com/bouzaienemafez-tech/churn-intelligence-mlops) | Explainable churn prediction, model evaluation and a production-style API |
-| [Retail Lakehouse ETL](https://github.com/bouzaienemafez-tech/retail-lakehouse-etl) | Bronze–Silver–Gold architecture, data quality and analytics metrics |
-| [Sales Analytics](https://github.com/bouzaienemafez-tech/data-analytics-etl-powerbi-portfolio) | SQL analysis, ETL workflow and Power BI dashboard design |
+- **[Retail Demand Forecasting](https://github.com/bouzaienemafez-tech/retail-demand-forecasting-platform)** — I use generated sales data to build a warehouse, forecast product demand, and serve predictions through FastAPI. I include a Power BI dashboard guide.
+- **[Churn Intelligence](https://github.com/bouzaienemafez-tech/churn-intelligence-mlops)** — I train and evaluate a churn model on generated telecom data. I use FastAPI to return churn probabilities and risk levels.
+- **[Retail Lakehouse ETL](https://github.com/bouzaienemafez-tech/retail-lakehouse-etl)** — I organise retail data into Bronze, Silver, and Gold layers. I validate records, log rejected rows, and calculate monthly product and customer metrics.
+- **[Sales Analytics](https://github.com/bouzaienemafez-tech/data-analytics-etl-powerbi-portfolio)** — I load retail CSV files into SQLite, write SQL reports, and outline a Power BI dashboard with DAX measures.
 
-## Technical focus
+## What I use
 
-`Python` · `SQL` · `ETL` · `Data Quality` · `Power BI` · `Pandas` · `scikit-learn` · `FastAPI` · `Docker`
+I use Python, SQL, Pandas, and SQLite for data preparation and analysis. I use scikit-learn for modelling, FastAPI for APIs, Docker for containers, and Power BI for dashboard design.
 
-## Currently building
+## What I'm working on
 
-Portfolio projects at the intersection of data engineering, analytics, and machine learning.
+I’m building my portfolio around data engineering, analytics, and machine learning. I focus on projects I can run locally and explain from the source data through to the results.
+
